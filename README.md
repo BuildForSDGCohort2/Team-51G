@@ -3,7 +3,11 @@
 
 <h1 align="center">The Bag Network</h1>
 
-<p>
-The_Bag_Network is an E-commerce online store that sells affordable bags to 
-African Customers. It is built based on the Django Framework and Python.
+<p align="center">
+The_Bag_Network is an E-commerce online store that sells high quality and affordable bags for African Women. It is built based on the Django Framework and Python.
 </p>
+<p align="center">
+The Bag Network is a smart E-commerce portal that comes customized with an integrated payment Gateway and a Recommender Engine. This will help improve the shopping experience for Customers.
+</p>
+
+<img src = "https://github.com/BuildForSDGCohort2/The_Bag_Network/images/blob/master/bag-network.jpg?raw=true">
