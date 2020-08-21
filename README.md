@@ -10,4 +10,6 @@ The_Bag_Network is an E-commerce online store that sells high quality and afford
 The Bag Network is a smart E-commerce portal that comes customized with an integrated payment Gateway and a Recommender Engine. This will help improve the shopping experience for Customers.
 </p>
 <br>
-<img src="https://github.com/BuildForSDGCohort2/The_Bag_Network/blob/develop/images/bag-network.jpg?raw=true" alt="image of white bag">
+<p align="center">
+<img height=400 width=600 src="https://github.com/BuildForSDGCohort2/The_Bag_Network/blob/develop/images/bag-network.jpg?raw=true" alt="image of white bag">
+</p>
