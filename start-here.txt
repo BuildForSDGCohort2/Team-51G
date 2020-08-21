@@ -1,4 +1,0 @@
-CREATING AN ONLINE SHOP PROJECT (Page 1 of this project)
-
-Edit the settings.py file of your project and add the shop application to the INSTALLED_APPS setting as follows:
-
